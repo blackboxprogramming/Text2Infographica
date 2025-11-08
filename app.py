@@ -4,7 +4,7 @@ from utils.query_extractor import generate_search_query
 from utils.youtube_suggestor import get_youtube_videos
 
 # Replace with your actual YouTube API key
-YOUTUBE_API_KEY = "AIzaSyCjMq5UsepSoG_hu1oxMkAQc04eMvg7aNA"
+YOUTUBE_API_KEY = "YOUR_YOUTUBE_API_KEY"
 
 # Streamlit App Config
 st.set_page_config(page_title="Text2Infographica", layout="centered")
@@ -47,3 +47,4 @@ if st.button("✨ Generate Summary + Videos"):
             st.warning("❌ No relevant videos found. Try a different input.")
     else:
         st.warning("Please enter some text above.")
+
