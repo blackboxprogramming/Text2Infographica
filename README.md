@@ -56,7 +56,7 @@ option to save summaries and
 support for PDF uploads and OCR extraction.
 
 **Deployment:** 
-The app is deployed on Hugging Face Spaces, accessible publicly.
+The web app is deployed on Hugging Face Spaces, accessible publicly.
 The YouTube API key is hidden from the public interface for security.
 
 
