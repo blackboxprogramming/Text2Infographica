@@ -1,4 +1,4 @@
-****Text2Infographica: Project Overview****
+**Text2Infographica: Project Overview**
 
 Text2Infographica is a web app that simplifies long and complex text by generating a concise summary and suggesting focused YouTube videos to help users quickly understand the core concepts. The goal is to make learning easier and faster by combining NLP-based summarization with smart YouTube query generation.
 Built using Transformer models from Hugging Face and deployed on Hugging Face Spaces, this app takes any input text, summarizes it, extracts relevant keywords and returns carefully aligned YouTube video suggestions.
